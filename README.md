@@ -1,1 +1,1 @@
-# simple code for parser data earthquake news from bmkg.go.id
+# parser data earthquake news from bmkg.go.id
